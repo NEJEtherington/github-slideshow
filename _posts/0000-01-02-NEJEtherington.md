@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"A man with a fork in a world of soup"
 Use the left arrow to go back!
